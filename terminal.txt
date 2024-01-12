@@ -1,0 +1,5 @@
+para crear este archivo en flutter:
+1. web: flutter build web -web-renderer html --release
+1.1. para wer la web app en localhost: flutter run -d chrome
+1.2. cómo ver la página en github?
+2. apk: flutter build apk
